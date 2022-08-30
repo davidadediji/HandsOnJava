@@ -44,6 +44,7 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 .idea/
+target
 #=======================
 # LINUX IGNORE FILES
 #=======================
